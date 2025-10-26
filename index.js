@@ -22,7 +22,7 @@ const userSchema = new mongoose.Schema({
 
 const User = mongoose.model("User", userSchema);
 
-// Simple routesdf
+// Simple routes
 app.get("/", (req, res) => {
   res.send("🚀 Express + MongoDB working!");
 });
