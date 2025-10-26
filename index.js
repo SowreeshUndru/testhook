@@ -13,7 +13,7 @@ mongoose
   .then(() => console.log("✅ Connected to MongoDB"))
   .catch((err) => console.error("❌ MongoDB connection error:", err));
 
-// Define a schema & model
+// Define a schema & modell
 const userSchema = new mongoose.Schema({
   name: String,
   email: String,
