@@ -1,6 +1,3 @@
-// 🧠 Test Push - SowreeshHelperAI
-// This file is used only to check if GitHub push event triggers the AI review service.
-
 
 
 
