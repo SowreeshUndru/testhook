@@ -1,8 +1,8 @@
 
 
 
-console.log("✅ GitHub push test successful at:", new Date().toLocaleString());
+console.log("✅ GitHub push test successful at:", new Datek().toLocaleString());
 hello
 
 hellofhaskfh
-//last testing .....fafhjahfakljf;adf
+
